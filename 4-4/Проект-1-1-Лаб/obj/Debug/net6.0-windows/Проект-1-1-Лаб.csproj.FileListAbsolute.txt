@@ -1,0 +1,16 @@
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\obj\Debug\net6.0-windows\Проект_1_1_Лаб.Form1.resources
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\obj\Debug\net6.0-windows\Проект-1-1-Лаб.csproj.GenerateResource.cache
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\obj\Debug\net6.0-windows\Проект-1-1-Лаб.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\obj\Debug\net6.0-windows\Проект-1-1-Лаб.AssemblyInfoInputs.cache
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\obj\Debug\net6.0-windows\Проект-1-1-Лаб.AssemblyInfo.cs
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\obj\Debug\net6.0-windows\Проект-1-1-Лаб.csproj.CoreCompileInputs.cache
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\bin\Debug\net6.0-windows\Проект-1-1-Лаб.exe
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\bin\Debug\net6.0-windows\Проект-1-1-Лаб.deps.json
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\bin\Debug\net6.0-windows\Проект-1-1-Лаб.runtimeconfig.json
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\bin\Debug\net6.0-windows\Проект-1-1-Лаб.dll
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\bin\Debug\net6.0-windows\Проект-1-1-Лаб.pdb
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\obj\Debug\net6.0-windows\Проект-1-1-Лаб.dll
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\obj\Debug\net6.0-windows\refint\Проект-1-1-Лаб.dll
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\obj\Debug\net6.0-windows\Проект-1-1-Лаб.pdb
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\obj\Debug\net6.0-windows\Проект-1-1-Лаб.genruntimeconfig.cache
+C:\Users\dakoy\source\repos\Проект-1-1-Лаб\Проект-1-1-Лаб\obj\Debug\net6.0-windows\ref\Проект-1-1-Лаб.dll
